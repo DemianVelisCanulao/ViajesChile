@@ -20,7 +20,7 @@ $(document).ready(function(){
         });
       } // End if
     });
-
+    //Mensaje de evento cuando se hace clock sobre el boton submit del formulario
     $('#submit1').on('click',function(event){
         alert("Mensaje Enviado");
     });
